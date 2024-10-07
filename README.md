@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">Full stack developer & Machine Learning Enthusiast @ UW Madison, Incoming SWE Intern @ Qualcomm</h3>
+<h3 align="center">Full stack developer & Machine Learning Enthusiast @ UW Madison, Prev @ Qualcomm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashg4509&label=Profile%20views&color=0e75b6&style=flat" alt="yashg4509" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ysgupta@wisc.edu**
 
-- 📄 Know about my experiences [http://yashgupta.tech/assets/YashGuptaResume2024Jan9.pdf](http://yashgupta.tech/assets/YashGuptaResume2024Jan9.pdf)
+- 📄 Know about my experiences [https://yashgupta.tech/assets/YashGResumeWebsite.pdf](https://yashgupta.tech/assets/YashGResumeWebsite.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
