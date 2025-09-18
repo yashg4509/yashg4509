@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashg4509&label=Profile%20views&color=0e75b6&style=flat" alt="yashg4509" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://yashgupta.tech/](http://yashgupta.tech/)
+- 👨‍💻 All of my projects, experiences, and resume are available at [http://yashgupta.tech/](http://yashgupta.tech/)
 
 - 📫 How to reach me **ysgupta@wisc.edu**
-
-- 📄 Know about my experiences [https://yashgupta.tech/assets/YashGResumeWebsite.pdf](https://yashgupta.tech/assets/YashGResumeWebsite.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
