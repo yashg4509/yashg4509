@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [http://yashgupta.tech/](http://yashgupta.tech/)
 
-- 💬 Ask me about **react, python, tensorflow, and java**
-
 - 📫 How to reach me **ysgupta@wisc.edu**
 
 - 📄 Know about my experiences [https://yashgupta.tech/assets/YashGResumeWebsite.pdf](https://yashgupta.tech/assets/YashGResumeWebsite.pdf)
